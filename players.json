@@ -1,0 +1,364 @@
+[
+  {
+    "name": "ItzRealMe",
+    "uuid": "",
+    "points": 330,
+    "region": "NA",
+    "rankLabel": "Combat Master",
+    "rankCls": "rc-cm",
+    "tiers": [
+      "HT3",
+      "HT1",
+      "HT1",
+      "HT1",
+      "HT1",
+      "LT2",
+      "LT2",
+      "LT2"
+    ],
+    "catTiers": {
+      "overall": "HT3",
+      "vanilla": "HT3",
+      "sword": "HT1",
+      "pot": "HT1",
+      "axe": "HT1",
+      "uhc": "LT2",
+      "smp": "LT2",
+      "mace": "LT2"
+    },
+    "addedBy": "system",
+    "addedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "name": "coldified",
+    "uuid": "",
+    "points": 326,
+    "region": "EU",
+    "rankLabel": "Combat Master",
+    "rankCls": "rc-cm",
+    "tiers": [
+      "LT1",
+      "LT1",
+      "LT3",
+      "HT1",
+      "HT1",
+      "LT1",
+      "LT1",
+      "LT2"
+    ],
+    "catTiers": {
+      "overall": "LT1",
+      "vanilla": "LT1",
+      "sword": "LT3",
+      "pot": "HT1",
+      "axe": "HT1",
+      "uhc": "LT1",
+      "smp": "LT1",
+      "mace": "LT2"
+    },
+    "addedBy": "system",
+    "addedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "name": "Swiqht",
+    "uuid": "",
+    "points": 290,
+    "region": "NA",
+    "rankLabel": "Combat Master",
+    "rankCls": "rc-cm",
+    "tiers": [
+      "HT3",
+      "LT3",
+      "LT3",
+      "HT1",
+      "HT1",
+      "HT1",
+      "HT2",
+      "LT2"
+    ],
+    "catTiers": {
+      "overall": "HT3",
+      "vanilla": "HT3",
+      "sword": "LT3",
+      "pot": "HT1",
+      "axe": "HT1",
+      "uhc": "HT1",
+      "smp": "HT2",
+      "mace": "LT2"
+    },
+    "addedBy": "system",
+    "addedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "name": "janekv",
+    "uuid": "",
+    "points": 245,
+    "region": "EU",
+    "rankLabel": "Combat Ace",
+    "rankCls": "rc-ca",
+    "tiers": [
+      "LT3",
+      "HT4",
+      "HT1",
+      "HT1",
+      "HT1",
+      "HT2",
+      "LT2",
+      "LT2"
+    ],
+    "catTiers": {
+      "overall": "LT3",
+      "vanilla": "LT3",
+      "sword": "HT4",
+      "pot": "HT1",
+      "axe": "HT1",
+      "uhc": "HT2",
+      "smp": "LT2",
+      "mace": "LT2"
+    },
+    "addedBy": "system",
+    "addedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "name": "AerxPVP",
+    "uuid": "",
+    "points": 218,
+    "region": "AS",
+    "rankLabel": "Combat Ace",
+    "rankCls": "rc-ca",
+    "tiers": [
+      "HT2",
+      "HT2",
+      "LT3",
+      "LT3",
+      "HT1",
+      "LT2",
+      "LT2",
+      "LT3"
+    ],
+    "catTiers": {
+      "overall": "HT2",
+      "vanilla": "HT2",
+      "sword": "LT3",
+      "pot": "LT3",
+      "axe": "HT1",
+      "uhc": "LT2",
+      "smp": "LT2",
+      "mace": "LT3"
+    },
+    "addedBy": "system",
+    "addedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "name": "VoidStrikerX",
+    "uuid": "",
+    "points": 197,
+    "region": "AS",
+    "rankLabel": "Combat Ace",
+    "rankCls": "rc-ca",
+    "tiers": [
+      "HT2",
+      "LT3",
+      "LT3",
+      "LT2",
+      "LT2",
+      "LT2",
+      "LT3",
+      "LT3"
+    ],
+    "catTiers": {
+      "overall": "HT2",
+      "vanilla": "HT2",
+      "sword": "LT3",
+      "pot": "LT3",
+      "axe": "LT2",
+      "uhc": "LT2",
+      "smp": "LT3",
+      "mace": "LT3"
+    },
+    "addedBy": "system",
+    "addedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "name": "ZenithBladeSG",
+    "uuid": "",
+    "points": 174,
+    "region": "AS",
+    "rankLabel": "Veteran",
+    "rankCls": "rc-vet",
+    "tiers": [
+      "LT2",
+      "LT2",
+      "LT3",
+      "LT2",
+      "LT2",
+      "LT3",
+      "LT3",
+      "LT3"
+    ],
+    "catTiers": {
+      "overall": "LT2",
+      "vanilla": "LT2",
+      "sword": "LT3",
+      "pot": "LT2",
+      "axe": "LT2",
+      "uhc": "LT3",
+      "smp": "LT3",
+      "mace": "LT3"
+    },
+    "addedBy": "system",
+    "addedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "name": "PhantomKitePH",
+    "uuid": "",
+    "points": 161,
+    "region": "AS",
+    "rankLabel": "Veteran",
+    "rankCls": "rc-vet",
+    "tiers": [
+      "LT3",
+      "LT2",
+      "LT3",
+      "LT3",
+      "LT2",
+      "LT3",
+      "LT3",
+      "LT3"
+    ],
+    "catTiers": {
+      "overall": "LT3",
+      "vanilla": "LT3",
+      "sword": "LT2",
+      "pot": "LT3",
+      "axe": "LT2",
+      "uhc": "LT3",
+      "smp": "LT3",
+      "mace": "LT3"
+    },
+    "addedBy": "system",
+    "addedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "name": "ShadowStepTH",
+    "uuid": "",
+    "points": 140,
+    "region": "AS",
+    "rankLabel": "Elite",
+    "rankCls": "rc-eli",
+    "tiers": [
+      "LT3",
+      "LT3",
+      "LT3",
+      "LT3",
+      "LT3",
+      "LT3",
+      "LT3",
+      "LT2"
+    ],
+    "catTiers": {
+      "overall": "LT3",
+      "vanilla": "LT3",
+      "sword": "LT3",
+      "pot": "LT3",
+      "axe": "LT3",
+      "uhc": "LT3",
+      "smp": "LT3",
+      "mace": "LT2"
+    },
+    "addedBy": "system",
+    "addedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "name": "IronVeilVN",
+    "uuid": "",
+    "points": 118,
+    "region": "AS",
+    "rankLabel": "Elite",
+    "rankCls": "rc-eli",
+    "tiers": [
+      "LT3",
+      "LT3",
+      "LT3",
+      "LT3",
+      "LT3",
+      "LT2",
+      "LT3",
+      "LT3"
+    ],
+    "catTiers": {
+      "overall": "LT3",
+      "vanilla": "LT3",
+      "sword": "LT3",
+      "pot": "LT3",
+      "axe": "LT3",
+      "uhc": "LT2",
+      "smp": "LT3",
+      "mace": "LT3"
+    },
+    "addedBy": "system",
+    "addedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "name": "archiveAnung",
+    "uuid": "19946a2f58184533ad6dfc72798a8afa",
+    "points": 100,
+    "region": "AS",
+    "rankLabel": "Elite",
+    "rankCls": "rc-eli",
+    "tiers": [
+      "LT3",
+      "LT3",
+      "LT3",
+      "LT3",
+      "LT3",
+      "LT3",
+      "LT3",
+      "LT3"
+    ],
+    "catTiers": {
+      "overall": "LT3",
+      "vanilla": "LT3",
+      "sword": "LT3",
+      "pot": "LT3",
+      "axe": "LT3",
+      "uhc": "LT3",
+      "smp": "LT3",
+      "mace": "LT3"
+    },
+    "addedBy": "neowz_1x",
+    "addedAt": "2026-08-25T07:32:47.447Z",
+    "updatedAt": "2026-08-25T07:32:47.447Z"
+  },
+  {
+    "name": "PramonoAnung",
+    "uuid": "19946a2f58184533ad6dfc72798a8afa",
+    "points": 10,
+    "region": "AS",
+    "rankLabel": "Player",
+    "rankCls": "rc-ch",
+    "tiers": [
+      "LT3",
+      "LT3",
+      "LT3",
+      "LT3",
+      "LT3",
+      "LT3",
+      "LT3",
+      "LT3"
+    ],
+    "catTiers": {
+      "overall": "LT3",
+      "vanilla": "LT3",
+      "sword": "LT3",
+      "pot": "LT3",
+      "axe": "LT3",
+      "uhc": "LT3",
+      "smp": "LT3",
+      "mace": "LT3"
+    },
+    "addedBy": "neowz_1x",
+    "addedAt": "2026-05-10T04:18:39.157Z",
+    "updatedAt": "2026-05-10T04:18:39.157Z"
+  }
+]
